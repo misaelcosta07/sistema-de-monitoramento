@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Mini Service Desk</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h1>🚨 Mini Service Desk</h1>
+    <!-- MONITORAMENTO -->
+<div class="box">
+  <h2>Monitoramento</h2>
+  <p id="statusServidor">Servidor Web: 🟢 Online</p>
+  <button onclick="simularFalha()">Simular Falha</button>
+</div>
+
+<!-- CHAMADOS -->
+<div class="box">
+  <h2>Chamados</h2>
+  <div id="chamados"></div>
+</div>
+
+<!-- LOG -->
+<div class="box">
+  <h2>Log de Eventos</h2>
+  <div id="log"></div>
+</div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
