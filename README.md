@@ -31,6 +31,7 @@ Exibição com horário automático
 HTML5
 CSS3
 JavaScript 
+
 🚀 Como executar o projeto
 Clone o repositório:
 git clone https://github.com/misaelcosta07/sistema-de-monitoramento.git
@@ -40,10 +41,7 @@ Abra o arquivo:
 index.html
 🌐 Demonstração
 
-👉 (coloque aqui o link do seu projeto depois de publicar)
-
-Exemplo:
-https://seunome.github.io/sistema-de-monitoramento/
+ https://misaelcosta07.github.io/sistema-de-monitoramento/
 
 💡 Conceitos aplicados
 Manipulação de DOM
